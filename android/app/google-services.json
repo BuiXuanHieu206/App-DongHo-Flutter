@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "440377373038",
+    "project_id": "app-dongho",
+    "storage_bucket": "app-dongho.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440377373038:android:a9436a3e6f6f48fe29117f",
+        "android_client_info": {
+          "package_name": "com.example.app_dongho"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB15eynjpeTyWXqO_3uYwwO9aevvrnbw-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
